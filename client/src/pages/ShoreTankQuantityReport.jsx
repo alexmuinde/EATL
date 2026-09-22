@@ -157,7 +157,7 @@ export default function ShoreTankQuantityReport() {
     <form onSubmit={handleSubmit} className="w-full p-2 gap-2">
       <div className="w-full">
         <h1 className="text-xl font-medium p-2 text-center">
-          BULKSTREAM LIMITED
+          VEG OIL TERMINAL
         </h1>
         <h2 className="p-2 text-center">SHORE TANK QUANTITY REPORT</h2>
       </div>
