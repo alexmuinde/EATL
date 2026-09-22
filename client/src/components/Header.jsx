@@ -141,10 +141,9 @@ export default function Header() {
       <div className="flex justify-between items-center max-w-6xl mx-auto p-3">
         <Link to="/">
           <h1 className="text-sm font-bold sm:text-xl flex flex-wrap">
-            <span className="text-blue-500">East</span>
-            <span className="text-slate-700">African</span>
-            <span className="text-blue-500">Terminal</span>
-            <span className="text-slate-700">Limited</span>
+            <span className="text-blue-500">Bulk</span>
+            <span className="text-slate-700">Stream</span>
+            <span className="text-blue-500">Limited</span>
           </h1>
         </Link>
 

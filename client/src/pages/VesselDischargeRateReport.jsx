@@ -164,7 +164,7 @@ export default function VesselDischargeRateReport() {
     <form onSubmit={handleSubmit} className="w-full p-2 grid grid-cols-1 md:grid-cols-2 gap-4">
       <div className="md:col-span-2 w-full">
         <h1 className="text-xl font-medium p-2 text-center">
-          EAST AFRICAN TERMINAL LIMITED
+          BULKSTREAM LIMITED
         </h1>
         <h2 className="p-2 text-center uppercase">VESSEL DISCHARGE RATE REPORT</h2>
       </div>

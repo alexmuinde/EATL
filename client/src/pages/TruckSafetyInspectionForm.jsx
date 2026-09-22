@@ -99,7 +99,7 @@ export default function TruckSafetyInspectionForm() {
   return (
     <form onSubmit={handleSubmit} className="w-full p-2 grid grid-cols-1 gap-2 md:grid-cols-2">
       <div className="md:col-span-2">
-        <h1 className="text-xl font-medium p-2 text-center">EAST AFRICAN TERMINAL LIMITED</h1>
+        <h1 className="text-xl font-medium p-2 text-center">BULKSTREAM LIMITED</h1>
         <h2 className="p-2 text-center">TRUCK SAFETY INSPECTION FORM</h2>
       </div>
 

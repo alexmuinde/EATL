@@ -99,7 +99,7 @@ export default function AgreedFinalOutturnReport() {
   return (
     <form onSubmit={handleSubmit} className="w-full p-2 gap-2">
       <div className="w-full">
-        <h1 className="text-xl font-medium p-2 text-center">EAST AFRICAN TERMINAL LIMITED</h1>
+        <h1 className="text-xl font-medium p-2 text-center">BULKSTREAM LIMITED</h1>
         <h2 className="p-2 text-center uppercase">AGREED FINAL OUTTURN REPORT</h2>
       </div>
 
